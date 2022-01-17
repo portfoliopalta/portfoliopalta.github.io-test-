@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//portfoliopalta.github.io//main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://portfoliopalta.github.io//what-is-pagination-in-seo/</loc>
+		<lastmod>2021-01-06T18:57:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Pagination-Thumbnail.jpg</image:loc>
+			<image:title><![CDATA[Pagination Thumbnail]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Google-Search-Results.jpg</image:loc>
+			<image:title><![CDATA[Google Search Results]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Pagination-Page-Load-Time-1.jpg</image:loc>
+			<image:title><![CDATA[Pagination - Page Load Time (1)]]></image:title>
+			<image:caption><![CDATA[Pagination SEO - Page Load Time]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//the-importance-of-audio-for-your-social-media-strategy/</loc>
+		<lastmod>2021-01-06T20:37:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/01/Pagination-Thumbnail.png</image:loc>
+			<image:title><![CDATA[Pagination Thumbnail]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//should-you-install-an-amp-plugin-on-your-website/</loc>
+		<lastmod>2021-03-23T20:15:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Untitled-design.png</image:loc>
+			<image:title><![CDATA[Untitled design]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/AMP-Example.png</image:loc>
+			<image:title><![CDATA[AMP Example]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//6-steps-to-create-a-website-for-your-business/</loc>
+		<lastmod>2021-06-20T10:57:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Pagination-Thumbnail.jpg</image:loc>
+			<image:title><![CDATA[Pagination Thumbnail]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Blog-post-eBook.jpg</image:loc>
+			<image:title><![CDATA[Blog post eBook]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Wordpress-Image.jpg</image:loc>
+			<image:title><![CDATA[Wordpress Image]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Blog-post-eBook-4-1.jpg</image:loc>
+			<image:title><![CDATA[Blog post eBook (4)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Blog-post-eBook-2.jpg</image:loc>
+			<image:title><![CDATA[Blog post eBook (2)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Blog-post-eBook-5.jpg</image:loc>
+			<image:title><![CDATA[Blog post eBook (5)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/04/Me.jpg</image:loc>
+			<image:title><![CDATA[Me]]></image:title>
+		</image:image>
+	</url>
+</urlset>
