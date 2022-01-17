@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//portfoliopalta.github.io//main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://portfoliopalta.github.io//</loc>
+		<lastmod>2021-10-20T12:08:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Books-and-Tours-Test.png</image:loc>
+			<image:title><![CDATA[Tablet Size]]></image:title>
+			<image:caption><![CDATA[small business equipment with branded designs]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-Beauty-Backup.png</image:loc>
+			<image:title><![CDATA[Tablet Size (1)]]></image:title>
+			<image:caption><![CDATA[Website Design Case Study - hair and beauty]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Dee-Designs.png</image:loc>
+			<image:title><![CDATA[Dee Designs]]></image:title>
+			<image:caption><![CDATA[Web development - Case Study]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/The-Lavender-Pot-Backup.png</image:loc>
+			<image:title><![CDATA[Mobile Size (3)]]></image:title>
+			<image:caption><![CDATA[Web Design - the lavender pot]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Books-and-Tours-Test.png</image:loc>
+			<image:title><![CDATA[Web development - Case Study]]></image:title>
+			<image:caption><![CDATA[Web development - Case Study]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-Beauty-Backup.png</image:loc>
+			<image:title><![CDATA[Hair &amp; Beauty - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/The-Lavender-Pot-Backup.png</image:loc>
+			<image:title><![CDATA[Tablet Size (3)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Dee-Designs.png</image:loc>
+			<image:title><![CDATA[Dee Designs]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//privacy-policy/</loc>
+		<lastmod>2020-12-05T22:38:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//the-lavender-pot-case-study/</loc>
+		<lastmod>2020-12-14T16:54:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/The-Lavender-Pot-Backup.png</image:loc>
+			<image:title><![CDATA[The Lavender Pot - Backup]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//about/</loc>
+		<lastmod>2021-04-14T20:39:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/04/Me.jpg</image:loc>
+			<image:title><![CDATA[Me]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/10/web-dev-19.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-Beauty-Backup.png</image:loc>
+			<image:title><![CDATA[Hair &amp; Beauty - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/10/Musical-Services-min.png</image:loc>
+			<image:title><![CDATA[Musical Services-min]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/10/The-Lavender-Pot-2-min-1.png</image:loc>
+			<image:title><![CDATA[The Lavender Pot 2-min (1)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Books-and-Tours-Test.png</image:loc>
+			<image:title><![CDATA[Books and Tours - Test]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//hair-beauty-by-leanne-case-study/</loc>
+		<lastmod>2021-04-14T22:10:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-Beauty-Backup.png</image:loc>
+			<image:title><![CDATA[Hair &amp; Beauty - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-and-Beauty-Facial.png</image:loc>
+			<image:title><![CDATA[Hair and Beauty Facial]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-and-Beauty-Homepage.png</image:loc>
+			<image:title><![CDATA[Hair and Beauty Homepage]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//facebook-ads-agency-in-nottingham/</loc>
+		<lastmod>2021-04-15T22:42:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-3.jpg</image:loc>
+			<image:title><![CDATA[facebook ads for on a mobile device for small business]]></image:title>
+			<image:caption><![CDATA[facebook ads for on a mobile device for small business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-4-1.jpg</image:loc>
+			<image:title><![CDATA[Creating social media post campaign management]]></image:title>
+			<image:caption><![CDATA[Creating social media post campaign management]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-4-1.jpg</image:loc>
+			<image:title><![CDATA[Creating social media post campaign management]]></image:title>
+			<image:caption><![CDATA[Creating social media post campaign management]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//social-media-management-company/</loc>
+		<lastmod>2021-04-16T15:55:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-3.jpg</image:loc>
+			<image:title><![CDATA[facebook ads for on a mobile device for small business]]></image:title>
+			<image:caption><![CDATA[facebook ads for on a mobile device for small business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-2.jpg</image:loc>
+			<image:title><![CDATA[instagram ads for on a mobile device for small business]]></image:title>
+			<image:caption><![CDATA[instagram ads for on a mobile device for small business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-2.jpg</image:loc>
+			<image:title><![CDATA[instagram ads for on a mobile device for small business]]></image:title>
+			<image:caption><![CDATA[instagram ads for on a mobile device for small business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-1.jpg</image:loc>
+			<image:title><![CDATA[LinkedIn ads logo on glass window for small business]]></image:title>
+			<image:caption><![CDATA[LinkedIn ads logo on glass window for small business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-4-1.jpg</image:loc>
+			<image:title><![CDATA[Creating social media post campaign management]]></image:title>
+			<image:caption><![CDATA[Creating social media post campaign management]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Social-Media-4-1.jpg</image:loc>
+			<image:title><![CDATA[Creating social media post campaign management]]></image:title>
+			<image:caption><![CDATA[Creating social media post campaign management]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//blog/</loc>
+		<lastmod>2021-06-10T21:35:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Untitled-design-400x250.png</image:loc>
+			<image:caption><![CDATA[Should You Install An AMP Plugin On Your Website?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Pagination-Thumbnail-400x250.jpg</image:loc>
+			<image:caption><![CDATA[What Is Pagination In SEO?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Pagination-Thumbnail-400x250.jpg</image:loc>
+			<image:caption><![CDATA[6 Steps To Create A Website For Your Business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/01/Pagination-Thumbnail-400x250.png</image:loc>
+			<image:caption><![CDATA[The Importance Of Audio For Your Social Media Strategy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//books-talks-and-tours-case-study/</loc>
+		<lastmod>2021-06-26T16:03:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Books-and-Tours-Test.png</image:loc>
+			<image:title><![CDATA[Books and Tours - Test]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/03/Shop-page-2-scaled.jpg</image:loc>
+			<image:title><![CDATA[Shop page 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/03/Homepage-2.jpg</image:loc>
+			<image:title><![CDATA[Homepage 2]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//judith-musical-services-case-study/</loc>
+		<lastmod>2021-06-26T16:04:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Musical-Services-Backup.png</image:loc>
+			<image:title><![CDATA[Musical Services - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Musical-Services.png</image:loc>
+			<image:title><![CDATA[Musical Services]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//dee-design-ceramics-case-study/</loc>
+		<lastmod>2021-06-26T16:19:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Dee-Designs.png</image:loc>
+			<image:title><![CDATA[Dee Designs]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Dee-Design-Ceramics-Gallery.png</image:loc>
+			<image:title><![CDATA[Dee Design Ceramics - Gallery]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Dee-Design-Ceramics-Homepage.png</image:loc>
+			<image:title><![CDATA[Dee Design Ceramics - Homepage]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//portfolio/</loc>
+		<lastmod>2021-06-26T16:46:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Books-and-Tours-Test.png</image:loc>
+			<image:title><![CDATA[Books and Tours - Test]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-Beauty-Backup.png</image:loc>
+			<image:title><![CDATA[Hair &amp; Beauty - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Hair-Beauty-Backup.png</image:loc>
+			<image:title><![CDATA[Hair &amp; Beauty - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2021/06/Dee-Designs.png</image:loc>
+			<image:title><![CDATA[Dee Designs]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/The-Lavender-Pot-Backup-e1608157844778.png</image:loc>
+			<image:title><![CDATA[The Lavender Pot - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/The-Lavender-Pot-Backup-e1608157844778.png</image:loc>
+			<image:title><![CDATA[The Lavender Pot - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/12/Musical-Services-Backup-e1608157834688.png</image:loc>
+			<image:title><![CDATA[Musical Services - Backup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/10/Musical-Services-min.png</image:loc>
+			<image:title><![CDATA[Musical Services-min]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//thank-you/</loc>
+		<lastmod>2021-07-09T20:57:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//contact/</loc>
+		<lastmod>2021-08-30T16:32:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//digital-marketing-services-in-nottingham/</loc>
+		<lastmod>2021-10-20T11:20:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//google-advertising-agency-in-nottingham/</loc>
+		<lastmod>2021-10-20T11:23:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/joshua-rodriguez-f7zm5TDOi4g-unsplash-1.jpg</image:loc>
+			<image:title><![CDATA[small business benefiting from google ads]]></image:title>
+			<image:caption><![CDATA[small business benefiting from google ads]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/solen-feyissa-UWVJaDvXW_c-unsplash-4.jpg</image:loc>
+			<image:title><![CDATA[google search ads on a mobile phone]]></image:title>
+			<image:caption><![CDATA[google search ads on a mobile phone]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/solen-feyissa-UWVJaDvXW_c-unsplash-4.jpg</image:loc>
+			<image:title><![CDATA[google search ads on a mobile phone]]></image:title>
+			<image:caption><![CDATA[google search ads on a mobile phone]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//copywriting-services/</loc>
+		<lastmod>2021-10-20T11:23:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Copywriting-1.jpg</image:loc>
+			<image:title><![CDATA[use of copywriting for a company brochure]]></image:title>
+			<image:caption><![CDATA[use of copywriting for a company brochure]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Copywriting-2.jpg</image:loc>
+			<image:title><![CDATA[copywriting on a website design]]></image:title>
+			<image:caption><![CDATA[copywriting on a website design]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Copywriting-2.jpg</image:loc>
+			<image:title><![CDATA[copywriting on a website design]]></image:title>
+			<image:caption><![CDATA[copywriting on a website design]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//brand-design-agency-in-nottingham/</loc>
+		<lastmod>2021-10-20T11:25:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Logo-Designs.jpg</image:loc>
+			<image:title><![CDATA[logo design for a small business]]></image:title>
+			<image:caption><![CDATA[logo design for a small business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Email-Marketing.jpg</image:loc>
+			<image:title><![CDATA[Email Marketing]]></image:title>
+			<image:caption><![CDATA[email marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Email-Marketing.jpg</image:loc>
+			<image:title><![CDATA[Email Marketing]]></image:title>
+			<image:caption><![CDATA[the inbox for small business conducting email marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/Branded-Stuff.jpg</image:loc>
+			<image:title><![CDATA[Branded Stuff]]></image:title>
+			<image:caption><![CDATA[small business equipment with branded designs]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://portfoliopalta.github.io//seo-services-in-nottingham/</loc>
+		<lastmod>2021-10-20T11:27:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/SEO-5.png</image:loc>
+			<image:title><![CDATA[google SEO on a mobile phone]]></image:title>
+			<image:caption><![CDATA[google SEO on a mobile phone]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/SEO-3.png</image:loc>
+			<image:title><![CDATA[website optimisation on laptop]]></image:title>
+			<image:caption><![CDATA[website optimisation on laptop]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/SEO-3.png</image:loc>
+			<image:title><![CDATA[website optimisation on laptop]]></image:title>
+			<image:caption><![CDATA[website optimisation on laptop]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/SEO-4.png</image:loc>
+			<image:title><![CDATA[Google search home screen]]></image:title>
+			<image:caption><![CDATA[Google search home screen]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/SEO-1.jpg</image:loc>
+			<image:title><![CDATA[Google SEO reports on a laptop]]></image:title>
+			<image:caption><![CDATA[Google SEO reports on a laptop]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://portfoliopalta.github.io//wp-content/uploads/2020/11/SEO-1.jpg</image:loc>
+			<image:title><![CDATA[Google SEO reports on a laptop]]></image:title>
+			<image:caption><![CDATA[Google SEO reports on a laptop]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
